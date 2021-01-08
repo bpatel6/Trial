@@ -1,0 +1,6 @@
+[submodule "hw2-bpatel6"]
+	path = hw2-bpatel6
+	url = https://research-git.uiowa.edu/cs2230-fa19/hw2-bpatel6.git
+[submodule "hw3-bpatel6"]
+	path = hw3-bpatel6
+	url = https://research-git.uiowa.edu/cs2230-fa19/hw3-bpatel6.git
